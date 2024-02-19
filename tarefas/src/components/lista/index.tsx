@@ -10,8 +10,8 @@ function Lista() {
         tempo: '00:30:00'
     },
     {
-        tarefa: 'Namorar a Leticia',
-        tempo: 'A vida toda'
+        tarefa: 'TypeScript',
+        tempo: '01:40:00'
     }
 ]
     return(
